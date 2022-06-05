@@ -11,11 +11,11 @@ public class Project {
 			return -1;
 	}
 	public static void main(String args[]) {
-		System.out.print("Hello");
+		System.out.print("Hello\n");
 		int x=564;
-		if(countDigits(x)!=-1);
+		if(countDigits(x)!=-1)
 			System.out.print(countDigits(x)+"digits");
-		else;
-			System.out.print( "Multiple Digits");
+		else
+			System.out.print( "Multiple Digits  ");
 	}
 }
